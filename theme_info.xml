@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <theme-info xmlns="http://www.simplemachines.org/xml/theme-info" xmlns:smf="http://www.simplemachines.org/">
-		  <name>Square Core</name>
-		  <author name="Liam Hammett">liam@liamhammett.com</author>
-		  <website>https://www.liamhammett.com/</website>
-		  <layers>main</layers>
-		  <templates>index</templates>
-		  <based-on></based-on>
-		  <version>1.1.10</version>
-	  <id>LiamHammett:SquareCore</id>
+	<id>LiamHammett:SquareCore</id>
+	<name>Square Core</name>
+	<author name="Liam Hammett">liam@liamhammett.com</author>
+	<website>https://www.liamhammett.com/</website>
+	<layers>html,body</layers>
+	<templates>index</templates>
+	<based-on></based-on>
+	<version>2.0 RC1.2</version>
 </theme-info>
